@@ -6,3 +6,5 @@
 ## Contacts
 - Email: shimwabruce@gmail.com
 - Phone: (+250) 790 005 866
+
+<!--[![wakatime](https://wakatime.com/badge/github/devark28/incredibles-cache.svg)](https://wakatime.com/badge/github/devark28/incredibles-cache)-->
