@@ -1,4 +1,4 @@
-<br/><br/>
+<br/>
 ## Coding stats across platforms <a href="https://user-badge.committers.top/rwanda/devark28"><img src="https://user-badge.committers.top/rwanda/devark28.svg" alt="Top Committer in Rwanda" style="width: 130px; height: auto;"></a>
 <!--
 [![committers.top badge](https://user-badge.committers.top/rwanda/devark28.svg)](https://user-badge.committers.top/rwanda/devark28)
