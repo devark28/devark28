@@ -9,7 +9,8 @@
 -->
 ![Bruce's GitHub stats](https://github-readme-stats-rlkg-c4pmoibxf-denvercoder1s-projects.vercel.app/api?username=devark28&show_icons=true&theme=transparent&rank_icon=github)
 <br/><br/>
-[![Bruce's WakaTime stats](https://github-readme-stats-rlkg-c4pmoibxf-denvercoder1s-projects.vercel.app/api/wakatime?username=@shimwabruce&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![Bruce's WakaTime stats](https://github-readme-stats-rlkg-c4pmoibxf-denvercoder1s-projects.vercel.app/api/wakatime?username=@shimwabruce&layout=compact&theme=transparent)
+<!-- (https://github.com/anuraghazra/github-readme-stats) -->
 <br/><br/>
 
 ## Contacts
